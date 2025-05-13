@@ -1,14 +1,11 @@
 ---
 layout: default
 title: <Yunxi Wang> - Curriculum Vitae
-permalink: /cv/
+permalink: [/cv/](https://github.com/Cornell-MAE-UG/spring-2025-portfolio-Yunxi-Wang/blob/10481143399a8714d19e6818daf028914b35e3e7/assets/YunxiWang_Resume.pdf)
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
-
-
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [yw2589@cornell.edu](mailto:yw2589@cornell.edu) 
 
 ---
 
@@ -20,11 +17,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
-
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+  GPA: 3.8/4.0 | Graduation: May, 2027
 
 ---
 
@@ -36,23 +29,15 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
----
-
+- **[CAD Project]**:  
+  *[Cadded and animated a white-out tape]*  
+  - Fusion 360
+  - Rendering
+ 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Cornell University] - Intern**  
+  [June, 2024] - [May, 2025]  
+  - Refer to CV 
 
 ---
 

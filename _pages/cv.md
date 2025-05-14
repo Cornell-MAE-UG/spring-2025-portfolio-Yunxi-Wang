@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <Yunxi Wang> - Curriculum Vitae
-permalink: (https://github.com/Cornell-MAE-UG/spring-2025-portfolio-Yunxi-Wang/blob/10481143399a8714d19e6818daf028914b35e3e7/assets/YunxiWang_Resume.pdf)
+permalink: /cv/
 ---
 ## Curriculum Vitae
 

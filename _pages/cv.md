@@ -10,7 +10,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a passion for product development and human-centered design.
 
 ---
 
@@ -41,15 +41,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 ---
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
-
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of [Yamatai - Taiko Drumming Group]   
 
 ---
 

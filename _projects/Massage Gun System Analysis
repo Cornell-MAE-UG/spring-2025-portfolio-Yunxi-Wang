@@ -6,4 +6,4 @@ technologies: [System Dynamics]
 image: /assets/images/massagegun.jpg
 ---
 For a class, we dissected a massage gun and worked out a block diagram and its governing equations. Take a look at the pdf for our report!
-[PDF to report!]({{"/assets/MAE_3260_Final_Group_Work__Exploring_a_System_of_Interest.pdf" | relative_url }})
+[PDF to report!]({{"/assets/images/systemsfinalpdf.pdf" | relative_url }})
